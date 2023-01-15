@@ -85,32 +85,32 @@ author:
   bio              : ""
   location         : "Zhejiang, China"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3JGFssYAAAAJ&hl=en"
-  email            : "min.chen@cispa.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "hongchenglee@aliyun.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
-  dblp             : "https://dblp.org/pid/50/6996-32.html"
+  dblp             :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Milkigit"
+  github           : "Lhc0623"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "min-chen-854925ab"
-  orcid            : "http://orcid.org/0000-0002-1128-7989"
+  linkedin         : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "MilkiTwit"
+  twitter          :
   vine             :
   weibo            :
   xing             :
