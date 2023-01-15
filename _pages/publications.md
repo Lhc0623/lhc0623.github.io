@@ -24,6 +24,19 @@ Bin Liang (Supervisor), <b>Hongcheng Li (Corresponding Author)</b>, Miaoqiang Su
 
 *IEEE Transactions on Dependable and Secure Computing* [[PDF]](https://ieeexplore.ieee.org/abstract/document/8482346)
 
+### <span style="color:#52ADC8">Privacy protection method and system for resisting member reasoning attacks based on vector confusion</span>
+
+<b>Hongcheng Li</b>, Wei Hua.
+
+[[Patent]](http://www.soopat.com/Patent/202110358755)
+
+
+### <span style="color:#52ADC8">Privacy protection quantitative evaluation method and system in multi-party data collaboration scene</span>
+
+Chongning Na, <b>Hongcheng Li</b>, Tingting Xu, Hao Xu.
+
+[[Patent]](http://www.soopat.com/Patent/202110051389)
+
 
 ## 2020
 ___
@@ -33,6 +46,12 @@ ___
 <b>Hongcheng Li</b>, Jianjun Huang, Bin Liang, Wenchang Shi, Yifang Wu, Shilei Bai.
 
 *Journal of Computer Security* [[PDF]](https://rucsesec.github.io/papers/JCS2020a.pdf)
+
+### <span style="color:#52ADC8">Deep neural network image adversarial sample detection method and system</span>
+
+Bin Liang, <b>Hongcheng Li</b>.
+
+[[Patent]](http://www.soopat.com/Patent/202010111521)
 
 
 ## 2018
