@@ -8,54 +8,38 @@ author_profile: true
 ## 2022
 ___
 
-### <span style="color:#52ADC8">OPUPO: Defending Against Membership Inference Attacks With **O**rder-**P**reserving and **U**tility-**P**reserving **O**bfuscation</span>
+### <span style="color:#52ADC8">OPUPO: Defending Against Membership Inference Attacks With Order-Preserving and Utility-Preserving Obfuscation</span>
 
-Yaru Liu, <b>Hongcheng Li (Co-first author)</b>, Gang Huang, Wei Hua.
+Yaru Liu, <b>Hongcheng Li (Co-First Author)</b>, Gang Huang, Wei Hua.
 
-IEEE Transactions on Dependable and Secure Computing [[PDF]](https://ieeexplore.ieee.org/abstract/document/9999284)
-
-
-### <span style="color:#52ADC8">Finding MNEMON: Reviving Memories of Node Embeddings</span>
-
-Yun Shen, Yufei Han, Zhikun Zhang, <b>Min Chen</b>, Ting Yu, Michael Backes, Yang Zhang, Gianluca Stringhini
-
-In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2204.06963) [[Code]](https://milkigit.github.io/publications/)
-
-### <span style="color:#52ADC8">Inference Attacks Against Graph Embedding</span>
-
-Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang.
-
-In USENIX Security Symposium (USENIX Security 2022). [[PDF]](https://arxiv.org/abs/2110.02631) [[Code]](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)
+*IEEE Transactions on Dependable and Secure Computing* [[PDF]](https://ieeexplore.ieee.org/abstract/document/9999284)
 
 
 ## 2021
 ___
 
-### <span style="color:#52ADC8">When Machine Unlearning Jeopardizes Privacy</span>
+### <span style="color:#52ADC8">Detecting Adversarial Image Examples in Deep Neural Networks with Adaptive Noise Reduction</span>
 
-<b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
+Bin Liang (Supervisor), <b>Hongcheng Li (Corresponding Author)</b>, Miaoqiang Su, Xirong Li, Wenchang Shi, Xiaofeng Wang.
 
-In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021) [[PDF]](https://arxiv.org/abs/2005.02205) [[Code]](https://github.com/MinChen00/UnlearningLeaks)
-
-
-### <span style="color:#52ADC8">Graph Unlearning</span>
-
-<b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
-
-*Tecnnical report* [[PDF]](https://arxiv.org/abs/2103.14991)
+*IEEE Transactions on Dependable and Secure Computing* [[PDF]](https://ieeexplore.ieee.org/abstract/document/8482346)
 
 
-## 2015
+## 2020
 ___
 
-### <span style="color:#52ADC8">RF-Based Charger Placement for Duty Cycle Guarantee in Battery-Free Sensor Networks</span>
+### <span style="color:#52ADC8">Identifying parasitic malware as outliers by code clustering</span>
 
-Yanjun Li, Lingkun Fu, <b>Min Chen</b>, Kaikai Chi, Yi-hua Zhu.
+<b>Hongcheng Li</b>, Jianjun Huang, Bin Liang, Wenchang Shi, Yifang Wu, Shilei Bai.
 
-*IEEE Communications Letters* [[PDF]](https://arxiv.org/pdf/1508.02303.pdf)
+*Journal of Computer Security* [[PDF]](https://rucsesec.github.io/papers/JCS2020a.pdf)
 
-### <span style="color:#52ADC8">Ultra-low power consumption passive structure health monitoring system and method</span>
 
-Zhiguo Shi, <b>Min Chen</b>(Leading Author), Jiming Chen
+## 2018
+___
 
-[[Patent]](http://www.soopat.com/Patent/201510736108)
+### <span style="color:#52ADC8">Deep Text Classification Can be Fooled</span>
+
+Bin Liang (Supervisor), <b>Hongcheng Li</b>, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi.
+
+In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, {IJCAI-18} [[PDF]](https://rucsesec.github.io/papers/IJCAI2018.pdf)
