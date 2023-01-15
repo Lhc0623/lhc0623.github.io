@@ -8,11 +8,11 @@ author_profile: true
 ## 2022
 ___
 
-### <span style="color:#52ADC8">Graph Unlearning</span>
+### <span style="color:#52ADC8">OPUPO: Defending Against Membership Inference Attacks With **O**rder-**P**reserving and **U**tility-**P**reserving **O**bfuscation</span>
 
-<b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
+Yaru Liu, <b>Hongcheng Li (Co-first author)</b>, Gang Huang, Wei Hua.
 
-In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2103.14991) [[Code]](https://github.com/MinChen00/Graph-Unlearning)
+IEEE Transactions on Dependable and Secure Computing [[PDF]](https://ieeexplore.ieee.org/abstract/document/9999284)
 
 
 ### <span style="color:#52ADC8">Finding MNEMON: Reviving Memories of Node Embeddings</span>
