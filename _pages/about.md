@@ -18,10 +18,16 @@ Currently, I am a senior engineer at 2012 Labs@Huawei (Hangzhou). Prior to that,
 - Privacy Preserving Machine Learning
 
 ## What's New
+- [Apr 2022] I joined 2012 Labs@Huawei (Hangzhou) as a senior engineer focusing on privacy preserving machine learning!
+
 - [Dec 2022] Our work “OPUPO: Defending Against Membership Inference Attacks With Order-Preserving and Utility-Preserving Obfuscation” got accepted by TDSC!
 
-- [Mar 2020] Our work “Identifying parasitic malware as outliers by code clustering” got accepted by TDSC!
+- [May 2020] I joined Zhejiang Lab (Hangzhou) as a junior researcher focusing on security and privacy in machine learning!
+
+- [Mar 2020] Our work “Identifying parasitic malware as outliers by code clustering” got accepted by JCS!
+
+- [Jul 2019] I joined Tencent Games (Shenzhen) as a research engineer!
 
 - [Oct 2018] Our work “Detecting Adversarial Image Examples in Deep Neural Networks with Adaptive Noise Reduction” got accepted by TDSC!
 
-- [May 2018] Our work “Deep text classification can be fooled” got accepted in [IJCAI 2018]!
+- [May 2018] Our work “Deep text classification can be fooled” got accepted in IJCAI'18!
