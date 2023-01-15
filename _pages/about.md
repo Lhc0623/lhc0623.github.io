@@ -16,3 +16,12 @@ Currently, I am a senior engineer at 2012 Labs@Huawei (Hangzhou). Prior to that,
 
 - Adversarial Machine Learning
 - Privacy Preserving Machine Learning
+
+## What's New
+- [Dec 2022] Our work “OPUPO: Defending Against Membership Inference Attacks With Order-Preserving and Utility-Preserving Obfuscation” got accepted by TDSC!
+
+- [Mar 2020] Our work “Identifying parasitic malware as outliers by code clustering” got accepted by TDSC!
+
+- [Oct 2018] Our work “Detecting Adversarial Image Examples in Deep Neural Networks with Adaptive Noise Reduction” got accepted by TDSC!
+
+- [May 2018] Our work “Deep text classification can be fooled” got accepted in [IJCAI 2018]!
