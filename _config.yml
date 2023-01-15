@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min Chen / (陈敏)"
+title                    : "Hongcheng Li / (李红程)"
 title_separator          : "-"
 name                     : &name "Min Chen"
 description              : &description "Ph.D. student at CISPA"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : ""
   location         : "Saarbrücken, Germany"
   employer         :
