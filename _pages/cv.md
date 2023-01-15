@@ -11,75 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2019 - Present, Ph.D in Informatik, CISPA Helmholtz Center for Information Security
-  * Supervisor: [Prof. Michael Backes](https://cispa.saarland/people/backes/)
-* 2014 - 2017, M.S. in Control Science and Engineer, Zhejiang University
-  * Supervisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp) Co-advisor: [Prof. Jiming Chen](https://person.zju.edu.cn/en/jmchen)
-* 2010 - 2014, B.S. in Telecommunication Science and Technology, Lanzhou University
+* 2016 - 2019, M.S. in Information Security, Renmin University of China
+  * Supervisor: [Prof. Bin Liang]([https://person.zju.edu.cn/cp](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/07258c4d6c4645b8ab8aae0aca0468e7.htm)) Co-advisor: [Prof. Jianjun Huang](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js3/b21dce30706a4caf972c7a4187ad029e.htm)
+* 2012 - 2016, B.S. in Information Security, Renmin University of China
 
 Experience
 ======
-* 2017-2019, Operating System Engineer, 2012 Labs@Huawei Hangzhou
-  * Duties included: develop docker(moby), linux kernel, HongmengOS microkernel
-  * Supervisor: [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
-
-Service
-======
-* External Reviewer: PoPETs’23, CCS’22, PoPETs’22, ICLR'22, Security'21, EuroS&P'21, WWW'21, SAC'21, NDSS'21, AsiaCCS'21, CCS'21, AAAI'21, PoPETs’21, CCS’20, NDSS’20, WWW’20, RAID’20, ICWSM’20, ESORICS’20, SocInfo’20, ICC’17, ICC’16, GLOBECOM’16
-* Journal Reviewer: TIFS'21, TDSC’20
-
-Teaching
-==
-I serve as a teaching assistant for the following advanced lecture and seminars at Saarland University.
-
-* Seminar: Data Privacy (2020 Winter) [detail](https://cms.cispa.saarland/dp2021/)
-
-* Advanced Lecture: Privacy Enhancing Technologies (2020 Summer) [detail](https://cms.cispa.saarland/pets2020/)
-
-* Seminar: Data-driven Approaches on Understanding Disinformation (2020 Summer) [detail](https://cms.cispa.saarland/daud2020/)
-
-* Seminar: Data Privacy (2019 Winter) [detail](https://cms.cispa.saarland/dp2019/)
-
-<!-- Skills
-======
-* Programming Language
-  * Python
-  * C/C++
-  * Shell
-  * Go
-  * Java
-  * Markdown
-  * Latex
-* Tools
-  * Git
-  * Docker
-* DevOps
-  * Jenkins CI
-  * Test Automation
-* Linux Kernel
-* Data Mining
-* Patent Writing -->
-
-<!-- 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
- -->
+* 2022.04 - Present, Senior Engineer, 2012 Labs@Huawei, Hangzhou
+* 2020.05 - 2022.04, Junior Researcher, Zhejiang Lab, Hangzhou
+* 2019.07 - 2020.04, Research Engineer, Tencent Games, Shenzhen
