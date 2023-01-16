@@ -18,9 +18,9 @@ Currently, I am a senior engineer at 2012 Labs@Huawei (Hangzhou). Prior to that,
 - Privacy Preserving Machine Learning
 
 ## What's New
-- [Apr 2022] I joined 2012 Labs@Huawei (Hangzhou) as a senior engineer focusing on privacy preserving machine learning!
-
 - [Dec 2022] Our work “OPUPO: Defending Against Membership Inference Attacks With Order-Preserving and Utility-Preserving Obfuscation” got accepted by TDSC!
+
+- [Apr 2022] I joined 2012 Labs@Huawei (Hangzhou) as a senior engineer focusing on privacy preserving machine learning!
 
 - [May 2020] I joined Zhejiang Lab (Hangzhou) as a junior researcher focusing on security and privacy in machine learning!
 
