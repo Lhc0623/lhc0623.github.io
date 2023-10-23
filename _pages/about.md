@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-Currently, I am a senior engineer at GienTech. Prior to that, I worked at Huawei's 2012 Lab (Hangzhou), Zhejiang Lab and Tencent Games. I got my master (2019) and bachelor (2016) degree from Renmin University of China.
+Currently, I am a senior engineer at GienTech. Prior to that, I worked at Huawei's 2012 Lab, Zhejiang Lab and Tencent Games. I got my master (2019) and bachelor (2016) degree from Renmin University of China.
 
 ## Research Interests
 
