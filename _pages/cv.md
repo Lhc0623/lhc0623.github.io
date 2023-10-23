@@ -17,6 +17,7 @@ Education
 
 Experience
 ======
-* 2022.04 - Present, Senior Engineer, Huawei's 2012 Lab, Hangzhou
+* 2023.06 - Present, Senior Engineer, GienTech, Hangzhou
+* 2022.04 - 2023.06, Senior Engineer, Huawei's 2012 Lab, Hangzhou
 * 2020.05 - 2022.04, Junior Researcher, Zhejiang Lab, Hangzhou
 * 2019.07 - 2020.04, Research Engineer, Tencent Games, Shenzhen
